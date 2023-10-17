@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 12px 0;
+  border: 1px;
+  border-color: black;
+}
+
+.delete-button {
+  font-size: 107px;
+
+}
+
